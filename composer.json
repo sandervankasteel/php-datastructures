@@ -1,0 +1,19 @@
+{
+    "name": "sandervankasteel/php-datastructures",
+    "description": "An example of implementing classic data structures in PHP",
+    "authors": [
+        {
+            "name": "Sander van Kasteel",
+            "email": "info@sandervankasteel.nl"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
