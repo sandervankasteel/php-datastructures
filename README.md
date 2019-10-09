@@ -1,4 +1,6 @@
 # PHP-datastructures
+[![Build Status](https://travis-ci.org/sandervankasteel/php-datastructures.svg?branch=master)](https://travis-ci.org/sandervankasteel/php-datastructures)
+
 This is a basic implementation of the "classic" data structures (like Stacks, Queues, LinkedLists etc. etc.) in PHP.
 
 All the code  is purely educational and should be treated as such. This project is based around the book 
