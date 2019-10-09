@@ -12,5 +12,4 @@ cache:
 
 script:
   - composer install
-  - composer du
   - vendor/bin/phpunit
