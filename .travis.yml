@@ -9,3 +9,8 @@ sudo: false
 cache:
   directories:
     - $HOME/.composer/cache
+
+script:
+  - composer install
+  - composer du
+  - vendor/bin/phpunit
